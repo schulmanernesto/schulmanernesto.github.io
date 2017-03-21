@@ -1,1 +1,0 @@
-# schulmanernesto.github.io
