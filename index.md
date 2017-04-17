@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BLog de Ernesto Schulman
 
 You can use the [editor on GitHub](https://github.com/schulmanernesto/schulmanernesto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
